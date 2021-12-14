@@ -13,7 +13,7 @@ The historiography of the World Wars is as vast as the lands and oceans that wer
 
 {% include figure.html
   class="center"
-  width="75%"
+  width="50%"
   caption="The preparations of French soliders"
   image-url="redsoilders.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:French_cuirass_of_WWI.jpg"
