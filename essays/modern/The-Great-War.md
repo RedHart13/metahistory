@@ -63,7 +63,7 @@ World War I came with many different outcomes that effected each country as they
 Though it occurred during the latter part of the war, the Russian Revolution greatly affected the outlook of the conflict, at least, in the eyes of Russia. “The overthrow of the monarchy in 1917 significantly influenced the perception of the war. The Bolsheviks and other left-wing socialists condemned the ‘imperialist’ goals of all the large warring countries” (Kolonitskii, 225). The Russian people’s deep distaste towards the war paired with the other political and economic unrest that plagues the nation (i.e. distrust of the Tsar and the crumbling economy due to the war), perception is skew negatively.
 
 Now, as the story goes, Russia became the Soviet Union and control of the historical narrative and the paradigm changed to favor the U.S.S.R. “This is explained by the growing repression of the former officers who had served in the Red Army and the consolidation of Soviet control over historical science.” (Kolonitskii, 227)
-### Conclusion
+# Conclusion
 The Great War was one of the bloodiest conflicts of the 20th century and will, unfortunately, play the role as one of the catalysts for another war to overshadow it. Stories and writings and accounts given during and after telling the many webbed branches that all together describe one of the wars to end all wars. The historiography of the event will always be checkered as time passes and it can be gambled that it will continue to evolve.
 
 # Bibioliographies
