@@ -68,6 +68,9 @@ The Great War was one of the bloodiest conflicts of the 20th century and will, u
 
 # Bibioliographies
 Cochran, M.H. “Historiography and War Guilt.” *Political Science Quarterly Vol. 43, No. 1.* The Academy of Political Science, 1928
+
 Kolonitskii, Boris. “Writing the Great War: The Historiography of World War I from 1918 to the Present” Berghahn Books, 2021
+
 Showalter, Dennis. "The Historian" *The Great War and Its Historiography Vol. 68, No. 4.* Taylor & Francis, Ltd. 2006
+
 Trachtenberg, Marc. “Versailles after Sixty Years” *Journal of Contemporary History Vol. 17, No. 3.* Sage Publications, Inc., 1982
